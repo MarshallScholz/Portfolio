@@ -31,7 +31,7 @@ github_username:  MarshallScholz
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
